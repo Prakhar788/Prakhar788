@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack.**
 
-- 👨‍💻 All of my projects are available at [https://prakhar788.github.io/Portfolio/](https://prakhar788.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prakhar788.github.io/Portfolio/)
 
 - 💬 Ask me about **anything, I am happy to help.**
 
