@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [some React Projects](https://github.com/Prakhar788/ReactProjects)
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning [**MERN Stack.**](https://github.com/Prakhar788/MERN)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prakhar788.github.io/Portfolio/)
 
