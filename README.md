@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://prakhar788.github.io/Portfolio/)
 
-- 💬 Ask me about **anything, I am happy to help.**
+- 💬 Ask me about **anything, I am happy to help**
 
 - 📫 How to reach me: **prakhar72001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prakhar-sharma-10100a239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-sharma-10100a239" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prakhar-sharma-10100a239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-sharma-10100a239" height="30" width="40"  /></a>
 <a href="https://www.leetcode.com/prakhar788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakhar788" height="30" width="40" /></a>
 </p>
 
